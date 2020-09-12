@@ -1,7 +1,7 @@
 # Instructions
 1. In postgres, create a database called <code>countries_happiness_db</code>
 
-1. Run schema.sql - tables <code>happiness</code> and <code>country</code> should be created
+1. Run <code>schema.sql</code> - tables <code>happiness</code> and <code>country</code> should be created
 
 1. Create a <code>config.py</code> file in the directory that the database lives, that contains username and password information to access your postgres server
 	* ex. the same location as <code>schema.sql</code>, <code>query.sql</code>, etc.
